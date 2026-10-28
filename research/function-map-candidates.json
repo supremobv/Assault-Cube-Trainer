@@ -1,0 +1,52 @@
+{
+  "client damage onHit hook": {
+    "string_va": "0x54c71c",
+    "references": [
+      {
+        "xref_va": "0x47d0a7",
+        "xref_rva": "0x7d0a7",
+        "context": [
+          "0047D08C movzx eax, al",
+          "0047D08F push eax",
+          "0047D090 push ebp",
+          "0047D091 push edi",
+          "0047D092 push dword ptr [esi + 0x1c4]",
+          "0047D098 mov edi, dword ptr [esp + 0x38]",
+          "0047D09C push dword ptr [edi + 0x1c4]",
+          "0047D0A2 push 0x52e7f0",
+          "0047D0A7 push 0x54c71c",
+          "0047D0AC push 2",
+          "0047D0AE call 0x4d44c0",
+          "0047D0B3 add esp, 0x20",
+          "0047D0B6 cmp edi, ebx",
+          "0047D0B8 jne 0x47d0f9"
+        ]
+      }
+    ]
+  },
+  "local server damage/death log": {
+    "string_va": "0x550330",
+    "references": [
+      {
+        "xref_va": "0x4958cb",
+        "xref_rva": "0x958cb",
+        "context": [
+          "004958B1 test eax, eax",
+          "004958B3 je 0x4958bb",
+          "004958B5 inc dword ptr [eax + 0xd4]",
+          "004958BB lea eax, [edi + 0x290]",
+          "004958C1 mov byte ptr [esp + 0x17], 1",
+          "004958C6 push eax",
+          "004958C7 lea eax, [edi + 0x10]",
+          "004958CA push eax",
+          "004958CB push 0x550330",
+          "004958D0 push 2",
+          "004958D2 call 0x4ea850",
+          "004958D7 add esp, 0x10",
+          "004958DA mov ebx, dword ptr [esp + 0x13c]",
+          "004958E1 movzx eax, byte ptr [esp + 0x140]"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "pid": 9472,
+  "mode": {
+    "id": 7,
+    "name": "Bot team deathmatch",
+    "teams": true,
+    "bots": true
+  },
+  "before": {
+    "health": 100,
+    "gun": "Shotgun",
+    "clip": 7,
+    "reserve": 21
+  },
+  "after": {
+    "health": 100,
+    "gun": "Shotgun",
+    "clip": 5,
+    "reserve": 7
+  },
+  "restored": true,
+  "user_confirmation": {
+    "actual_animated_models_through_walls": true,
+    "damage_bots_through_walls": true,
+    "context": "offline bot match",
+    "date": "2026-10-28"
+  }
+}

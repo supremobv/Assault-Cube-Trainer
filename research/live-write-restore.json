@@ -1,0 +1,114 @@
+[
+  {
+    "control": "health",
+    "applied_readback": true,
+    "restored": true,
+    "fields": 1,
+    "gameplay_effect": "not individually confirmed; source/layout verified"
+  },
+  {
+    "control": "armour",
+    "applied_readback": true,
+    "restored": true,
+    "fields": 1,
+    "gameplay_effect": "not individually confirmed; source/layout verified"
+  },
+  {
+    "control": "magazines",
+    "applied_readback": true,
+    "restored": true,
+    "fields": 7,
+    "gameplay_effect": "not individually confirmed; source/layout verified"
+  },
+  {
+    "control": "reserves",
+    "applied_readback": true,
+    "restored": true,
+    "fields": 7,
+    "gameplay_effect": "not individually confirmed; source/layout verified"
+  },
+  {
+    "control": "grenades",
+    "applied_readback": true,
+    "restored": true,
+    "fields": 1,
+    "gameplay_effect": "not individually confirmed; source/layout verified"
+  },
+  {
+    "control": "no_recoil",
+    "applied_readback": true,
+    "restored": true,
+    "fields": 35,
+    "gameplay_effect": "not individually confirmed; source/layout verified"
+  },
+  {
+    "control": "no_spread",
+    "applied_readback": true,
+    "restored": true,
+    "fields": 7,
+    "gameplay_effect": "not individually confirmed; source/layout verified"
+  },
+  {
+    "control": "rapid_fire",
+    "applied_readback": true,
+    "restored": true,
+    "fields": 7,
+    "gameplay_effect": "not individually confirmed; source/layout verified"
+  },
+  {
+    "control": "fast_reload",
+    "applied_readback": true,
+    "restored": true,
+    "fields": 7,
+    "gameplay_effect": "not individually confirmed; source/layout verified"
+  },
+  {
+    "control": "automatic",
+    "applied_readback": true,
+    "restored": true,
+    "fields": 7,
+    "gameplay_effect": "not individually confirmed; source/layout verified"
+  },
+  {
+    "control": "large_mags",
+    "applied_readback": true,
+    "restored": true,
+    "fields": 7,
+    "gameplay_effect": "not individually confirmed; source/layout verified"
+  },
+  {
+    "control": "damage",
+    "applied_readback": true,
+    "restored": true,
+    "fields": 6,
+    "gameplay_effect": "not individually confirmed; source/layout verified"
+  },
+  {
+    "control": "fov",
+    "applied_readback": true,
+    "restored": true,
+    "fields": 1,
+    "gameplay_effect": "not individually confirmed; source/layout verified"
+  },
+  {
+    "control": "scope_fov",
+    "applied_readback": true,
+    "restored": true,
+    "fields": 1,
+    "gameplay_effect": "not individually confirmed; source/layout verified"
+  },
+  {
+    "control": "slow_fall",
+    "applied_readback": true,
+    "restored": true,
+    "fields": 1,
+    "gameplay_effect": "not individually confirmed; source/layout verified"
+  },
+  {
+    "control": "view_lock",
+    "applied_readback": true,
+    "restored": true,
+    "fields": 2,
+    "gameplay_effect": "not individually confirmed; source/layout verified"
+  }
+]

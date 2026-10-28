@@ -1,0 +1,243 @@
+{
+  "game": "AssaultCube",
+  "version": "1.3.0.2",
+  "process": "ac_client.exe",
+  "sha256": "5b588e6ff7710fa0170553506a50bfa14750ccb438a154e4ea0e0b1ba621cefb",
+  "module_size": 1806336,
+  "player_root_rva": 1616896,
+  "weapon_table_rva": 1490112,
+  "weapon_stride": 104,
+  "fov_rva": 1615820,
+  "scope_fov_rva": 1615924,
+  "player_fields": {
+    "x": [
+      4,
+      "float"
+    ],
+    "y": [
+      8,
+      "float"
+    ],
+    "z": [
+      12,
+      "float"
+    ],
+    "velocity_x": [
+      16,
+      "float"
+    ],
+    "velocity_y": [
+      20,
+      "float"
+    ],
+    "velocity_z": [
+      24,
+      "float"
+    ],
+    "yaw": [
+      52,
+      "float"
+    ],
+    "pitch": [
+      56,
+      "float"
+    ],
+    "roll": [
+      60,
+      "float"
+    ],
+    "max_speed": [
+      68,
+      "float"
+    ],
+    "air_time": [
+      72,
+      "int"
+    ],
+    "health": [
+      236,
+      "int"
+    ],
+    "armour": [
+      240,
+      "int"
+    ],
+    "selected_weapon": [
+      252,
+      "int"
+    ],
+    "reserve_base": [
+      260,
+      "int"
+    ],
+    "magazine_base": [
+      296,
+      "int"
+    ],
+    "cooldown_base": [
+      332,
+      "int"
+    ],
+    "name": [
+      517,
+      "string"
+    ],
+    "weapons_base": [
+      828,
+      "pointer"
+    ],
+    "attack": [
+      516,
+      "byte"
+    ],
+    "team": [
+      780,
+      "int"
+    ],
+    "head_x": [
+      1016,
+      "float"
+    ],
+    "head_y": [
+      1020,
+      "float"
+    ],
+    "head_z": [
+      1024,
+      "float"
+    ],
+    "last_rendered": [
+      228,
+      "int"
+    ]
+  },
+  "weapon_fields": {
+    "reload_ms": [
+      70,
+      "short"
+    ],
+    "attack_delay_ms": [
+      72,
+      "short"
+    ],
+    "damage": [
+      74,
+      "short"
+    ],
+    "spread": [
+      82,
+      "short"
+    ],
+    "recoil": [
+      84,
+      "short"
+    ],
+    "magazine_size": [
+      86,
+      "short"
+    ],
+    "model_kick_rotation": [
+      88,
+      "short"
+    ],
+    "model_kick_back": [
+      90,
+      "short"
+    ],
+    "recoil_base": [
+      94,
+      "short"
+    ],
+    "max_recoil": [
+      96,
+      "short"
+    ],
+    "automatic": [
+      102,
+      "byte"
+    ]
+  },
+  "weapon_names": [
+    "Knife",
+    "Pistol",
+    "Carbine",
+    "Shotgun",
+    "SMG",
+    "Sniper",
+    "Assault rifle",
+    "Grenades",
+    "Akimbo"
+  ],
+  "verification": {
+    "before_pid": 8516,
+    "after_pid": 5644,
+    "before_player_pointer": "0x0066D448",
+    "after_player_pointer": "0x009179F0",
+    "health_hud_confirmed": true,
+    "ammo_hud_and_firing_confirmed": true,
+    "restart_pointer_confirmed": true,
+    "note": "Other field semantics were cross-checked against source and live structures. Gameplay effects require individual testing."
+  },
+  "bot_list_rva": 1616900,
+  "bot_count_rva": 1616908,
+  "lastmillis_rva": 1569036,
+  "md5": "2abc290c544e3ba2125c94ca255d07b2",
+  "gamemode_rva": 1616888,
+  "connected_rva": 1616840,
+  "stock_weapon_data": [
+    {
+      "70": 0,
+      "72": 500,
+      "74": 50,
+      "86": 1
+    },
+    {
+      "70": 1400,
+      "72": 160,
+      "74": 18,
+      "86": 10
+    },
+    {
+      "70": 1800,
+      "72": 720,
+      "74": 60,
+      "86": 10
+    },
+    {
+      "70": 2400,
+      "72": 880,
+      "74": 1,
+      "86": 7
+    },
+    {
+      "70": 1650,
+      "72": 80,
+      "74": 16,
+      "86": 30
+    },
+    {
+      "70": 1950,
+      "72": 1500,
+      "74": 82,
+      "86": 5
+    },
+    {
+      "70": 2000,
+      "72": 120,
+      "74": 22,
+      "86": 20
+    },
+    {
+      "70": 1000,
+      "72": 650,
+      "74": 200,
+      "86": 1
+    },
+    {
+      "70": 1400,
+      "72": 80,
+      "74": 18,
+      "86": 20
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "ce_health_readback": 125,
+  "ce_health_restored": 100,
+  "akimbo_available": true,
+  "scope_locked": true,
+  "scope_settled": true,
+  "reserve_refill": {
+    "magazine": 5,
+    "reserve": 8
+  },
+  "crouch_eye_height": {
+    "before": 4.5,
+    "crouched": 3.375
+  },
+  "bunnyhop_z": {
+    "before": 4.5,
+    "after": 6.787834167480469
+  }
+}

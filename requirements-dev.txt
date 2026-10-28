@@ -1,0 +1,3 @@
+-r requirements.txt
+pyinstaller>=6.22,<7
+lupa>=2.8,<3

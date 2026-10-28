@@ -1,0 +1,11 @@
+{
+  "pid": 8516,
+  "module_base": "0x400000",
+  "local_player_root_rva": "0x18AC00",
+  "player_pointer": "0x66d448",
+  "health": 100,
+  "armour": 0,
+  "fov": 90.0,
+  "scope_fov": 50,
+  "name": "supremobv"
+}

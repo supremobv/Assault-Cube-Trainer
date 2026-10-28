@@ -1,0 +1,25 @@
+{
+  "auto_shoot_carbine": {
+    "before": 10,
+    "after": 7,
+    "multiple_shots": true,
+    "attack_released": true
+  },
+  "hold_to_fire_carbine": {
+    "before": 10,
+    "after": 8,
+    "multiple_shots": true
+  },
+  "sniper_scope": {
+    "scoped": true,
+    "scope_fov": 20,
+    "current_weapon": "Sniper"
+  },
+  "aim": {
+    "status": "Target: ACAddict",
+    "yaw": 232.62696838378906,
+    "pitch": -7.433640480041504,
+    "rendered_bots": 3
+  },
+  "additional_field_controls": "applied and restored"
+}

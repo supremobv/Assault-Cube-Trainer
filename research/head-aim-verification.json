@@ -1,0 +1,11 @@
+{
+  "targets": [
+    "Target: ACAddict",
+    "Target: Bones",
+    "No eligible target in aim cone."
+  ],
+  "sniper_rounds_remaining": 3,
+  "frags_before": 10,
+  "frags_after": 14,
+  "headshot_assist_field_exercised": true
+}

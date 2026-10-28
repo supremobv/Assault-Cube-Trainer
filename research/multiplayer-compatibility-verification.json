@@ -1,0 +1,12 @@
+{
+  "multiplayer": true,
+  "before": {
+    "sniper_delay": 1500,
+    "sniper_magazine_size": 5
+  },
+  "after": {
+    "sniper_delay": 1500,
+    "sniper_magazine_size": 5
+  },
+  "health_ammo_note": "Not overwritten by repair; player must respawn to resynchronize"
+}

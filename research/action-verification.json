@@ -1,0 +1,23 @@
+{
+  "position_before": [
+    152.0,
+    91.0,
+    9.8125
+  ],
+  "position_after_lift": [
+    152.0,
+    91.0,
+    10.976503372192383
+  ],
+  "position_after_return": [
+    152.0,
+    91.0,
+    9.8125
+  ],
+  "lift_changed_z": true,
+  "returned_to_marker": true,
+  "replenish_health": 100,
+  "replenish_armour": 100,
+  "replenish_grenades": 3,
+  "temporary_loadout_values_restored": true
+}

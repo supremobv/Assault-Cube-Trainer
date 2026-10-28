@@ -1,0 +1,14 @@
+{
+  "mode": {
+    "id": 5,
+    "name": "Capture the flag",
+    "teams": true,
+    "bots": false
+  },
+  "network_player_count": 9,
+  "local_bot_count": 0,
+  "eligible_opponents": 4,
+  "local_state": 1,
+  "verification": "Read-only enumeration and filtering; no match state edited",
+  "eligible_including_teammates": 6
+}
